@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Foxikle
 - 👀 I’m interested in Spigot/Minecraft development.
-- 🌱 I’m currently learning Html/css.
+- 🌱 I’m currently learning C++.
 
 <!---
 Foxikle/Foxikle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
