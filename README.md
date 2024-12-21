@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an open source NPC library for Minecraft.<br>🌱 I’m currently learning Ruby on Rails & Vue.js<br>💬 Ask me about anything.<br>⚡ Fun fact: I do things
+🔭 I’m currently working on an open source NPC library for Minecraft.<br>🌱 I’m currently learning Nuxt with supabase<br>💬 Ask me about anything.
 
 
 ## 🌐 Socials:
